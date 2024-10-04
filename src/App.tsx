@@ -57,7 +57,7 @@ class App extends Component<{}, IState> {
   /**
    * Render the App react component
    */
-  render() {
+  render(); {
     return (
       <div className="App">
         <header className="App-header">
