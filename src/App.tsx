@@ -58,8 +58,8 @@ class App extends Component<{}, IState> {
   /**
    * Render the App react component
    */
-  render() {
-    return (
+render(); {
+   return (
       <div className="App">
         <header className="App-header">
           Bank & Merge Co Task 2
